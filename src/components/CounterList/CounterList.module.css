@@ -1,0 +1,11 @@
+.container {
+  min-height: 100vh;
+  background-color: #868686;
+}
+
+.counter_container {
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

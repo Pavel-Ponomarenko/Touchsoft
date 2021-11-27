@@ -1,9 +1,7 @@
-import { Counter } from "./components/Counter";
+import { CounterList } from "./components/CounterList";
 
 function App() {
-  return (
-      <Counter></Counter>
-  );
+  return <CounterList />;
 }
 
 export default App;
